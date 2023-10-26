@@ -10,7 +10,7 @@
 
 # can we take the value from user?
 a = int(input("Enter the value of a\n")) # 10
-b = int(input("E10nter the value of b\n")) # 3
+b = int(input("E10                  nter the value of b\n")) # 3
 
 print(a+b)
 print(a-b)

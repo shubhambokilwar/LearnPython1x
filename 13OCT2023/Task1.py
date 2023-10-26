@@ -10,7 +10,7 @@
 2. What does the ** operator do in Python, and how is it used?
 ---> ** stands for exponential operator &  similar to raise to the power of some value
 """
-a,b = 2,5
+a,b = 2,10
 print(a**b)
 
 """
